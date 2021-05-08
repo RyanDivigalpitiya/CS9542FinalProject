@@ -13,6 +13,7 @@ With the rise of Covid-19, the AI community has been sought after to develop det
 ### Dataset
 
 - Our dataset for this project consists of lung x-ray scans of both healthy and unhealthy patients; unhealthy patients have been diagnosed with either a viral-based pneumonia infection or a bacterial-based pneumonia infection. Pneumonia is an infection in the lungs that causes inflammation. Its causes can be either bacterial-based or viral-based. Covid-19, a virus, causes pneumonia in more severe cases.
+  - Dataset: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database 
 - For the patients that had viral-induced pneumonia in our dataset, the dataset also includes whether they received a positive or negative diagnosis for Covid-19. In other words, their pneumonia was caused by the coronavirus if positive.
 - If their diagnosis is negative, then that means the patient has some other viral chest infection that is not Covid-19.
 
