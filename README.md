@@ -4,8 +4,6 @@
 
 ### Contributors: *Ryan Divigalpitiya, Heather Hartley, Mohmmd Alanbary*
 
-> **Note:** This project was submitted for grading, May 7, 2021
-
 ### Description
 
 With the rise of Covid-19, the AI community has been sought after to develop detection techniques that will help in detecting pneumonia along with being able to discriminate between the different causes of pneumonia, such as Covid-19.
